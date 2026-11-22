@@ -142,8 +142,9 @@ tables in `data/processed/`, including the Excel file used by Power BI.
 APIs: [SCB Statistikdatabasen API v2](https://statistikdatabasen.scb.se/api/v2) ·
 [Riksbanken SWEA API](https://api.riksbank.se/swea/v1)
 
-Context figures on page 1 (housing need, Stockholmshem and Familjebostäder start plans) come from public
-reports by Region Stockholm and the municipal housing companies. Qualitative input comes from an
+Context figures on page 1 come from public reports: housing need from Region Stockholm, and Stockholmshem's
+construction starts (429 in 2019, 291 in 2023, 99 in 2024, 0 in 2025; target ~290 a year) from the company's
+annual reports 2019–2024 and its project list of September 2025. Qualitative input comes from an
 interview with the project manager of a cancelled rental project (Östergötland, 22 flats), anonymised.
 
 ## Limitations
