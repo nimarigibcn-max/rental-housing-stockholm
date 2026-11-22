@@ -18,6 +18,6 @@ presentation (no PowerPoint).
 | 1. The problem | Too few rentals are built – and building follows the interest rate with a 3-year lag |
 | 2. Why so expensive? | Costs have quadrupled since 1994, and land is the hidden driver |
 | 3. Can we trust the model? | The model matches real rents 2022–24; in 2025 a 1 900 kr/month gap opens |
-| 4. What would it take? | Test the levers yourself – who decides each one |
+| 4. What would it take? | Test the tools yourself – who decides each one |
 | 5. Who can afford it? | Only two-income households – singles are priced out |
 | 6. The answer | Cheaper land, a targeted subsidy and housing allowance – together |
