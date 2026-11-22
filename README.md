@@ -1,7 +1,7 @@
 # The Cost of Building Rentals in Stockholm
 
 **What would it take for new rental housing in Stockholm to be built at a rent ordinary households can
-afford – which levers can politicians use, and how much does each one lower the rent?**
+afford – which tools can politicians use, and how much does each one lower the rent?**
 
 Individual project – Hyper Island, Data Analyst (DA27), autumn 2026.
 Audience: politicians and decision-makers. The result is presented as an interactive Power BI report.
@@ -19,16 +19,16 @@ Audience: politicians and decision-makers. The result is presented as an interac
 | **1 900 kr/month** | the gap in 2025 between what a new 55 m² flat costs and the rent it can be let for. That gap is why projects stop. |
 | **64 %** | of a single person's income would go to rent in a new 2-room flat today (limit: 30 %). Even at 0 % interest and maximum subsidy it is 42 %. |
 
-**The levers** (55 m² flat, 2.75 % interest, today's level 16 352 kr/month):
+**The tools** (55 m² flat, 2.75 % interest, today's level 16 352 kr/month):
 
-| Lever | Who decides | Effect on rent | Cost / note |
+| Tool | Who decides | Effect on rent | Cost / note |
 |---|---|---|---|
 | Cheaper land for rentals (inner suburb → average land price) | Municipality | **−5 200 kr/month** (inner city: −9 500) | Land allocation, discounted site leasehold |
 | Investment subsidy, 7 000 kr/m² tied to a rent cap | State | **−1 900 kr/month** | ≈ 385 000 kr per flat = 385 million kr per 1 000 flats |
 | Housing allowance for single-income households | State | Closes the remaining gap: **8 600 kr/month** for a single person, 4 400 for a single parent | Land and subsidy alone are not enough for one income |
-| Interest rate | Riksbank / market – *not* a political lever | 1.5 % + subsidy → 12 900 kr/month: 28 % of median income, still 50 % for a single person | Policy has to work even when rates are high |
+| Interest rate | Riksbank / market – *not* a political tool | 1.5 % + subsidy → 12 900 kr/month: 28 % of median income, still 50 % for a single person | Policy has to work even when rates are high |
 
-**Conclusion:** no single lever is enough. Cheaper land, a targeted subsidy and housing allowance
+**Conclusion:** no single tool is enough. Cheaper land, a targeted subsidy and housing allowance
 together can bring new rentals to a level ordinary households can afford.
 
 ## The model
@@ -64,7 +64,7 @@ the 1 900 kr/month gap. See `notebooks/02_model.ipynb`.
 ## The Power BI report
 
 Six pages that tell the story, built to be presented full screen. Pages 4 and 5 have live sliders where
-the audience can test the levers themselves.
+the audience can test the tools themselves.
 
 | Page | Content |
 |---|---|
@@ -73,7 +73,7 @@ the audience can test the levers themselves.
 | 3. Can we trust the model? | Model vs actual rent 2022–2025 |
 | 4. What would it take? | Sliders: interest rate (market), subsidy (state), land price (municipality) |
 | 5. Who can afford it? | Rent as % of income per household type |
-| 6. The answer | The three levers, their effect and cost |
+| 6. The answer | The three tools, their effect and cost |
 
 Screenshots of every page and the custom theme are in [`powerbi/`](powerbi/). The data source of the
 report is `data/processed/rental_model_powerbi.xlsx` (Import mode).
