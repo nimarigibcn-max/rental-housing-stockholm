@@ -1,7 +1,7 @@
 # The Cost of Building Rentals in Stockholm
 
-**What would it take for new rental housing in Stockholm to be built at a rent ordinary households can
-afford – which tools can politicians use, and how much does each one lower the rent?**
+**What would it take to build new rental homes in Stockholm that ordinary households can afford –
+which tools can politicians use, and how much does each one lower the rent?**
 
 Individual project – Hyper Island, Data Analyst (DA27), autumn 2026.
 Audience: politicians and decision-makers. The result is presented as an interactive Power BI report.
