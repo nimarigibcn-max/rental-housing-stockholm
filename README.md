@@ -1,7 +1,7 @@
 # The Cost of Building Rentals in Stockholm
 
-**What would it take to build new rental homes in Stockholm that ordinary households can afford –
-which tools can politicians use, and how much does each one lower the rent?**
+**What would it take to build new rental homes that ordinary households can afford –
+and which tools can politicians use?** (Stockholm County)
 
 Individual project – Hyper Island, Data Analyst (DA27), autumn 2026.
 Audience: politicians and decision-makers. The result is presented as an interactive Power BI report.
@@ -25,8 +25,8 @@ Audience: politicians and decision-makers. The result is presented as an interac
 |---|---|---|---|
 | Cheaper land for rentals (inner-suburb land sold at outer-suburb prices) | Municipality | **−5 200 kr/month** | Land allocation, discounted site leasehold |
 | Investment subsidy, 7 000 kr/m² tied to a rent cap | State | **−1 900 kr/month** | ≈ 385 000 kr per flat = 385 million kr per 1 000 flats |
-| Housing allowance for single-income households | State | Closes the remaining gap after cheaper land and the subsidy: **7 300 kr/month** for a single woman (single man 6 100, single woman with children 3 200) | Land and subsidy alone are not enough for one income |
-| Interest rate | Riksbank / market – *not* a political tool | 1.5 % + subsidy → 12 900 kr/month: 28 % of median income, still 54 % for a single woman | Policy has to work even when rates are high |
+| Housing allowance for single-income households | State | Closes the remaining gap after cheaper land and the subsidy: **7 300 kr/month** for a single woman (single man 6 100, single woman with children 3 200) | Today's allowance: max 4 200 kr/month, for low-income families with children; single people get 0 kr from age 29 (Försäkringskassan 2026) |
+| Interest rate | Riksbank / market – *not* a political tool | All figures above assume 2.75 % (2025 level). Even at 1.5 % + subsidy (12 900 kr/month) a single woman pays 54 % of her income | 28 % for the median household |
 
 **Conclusion:** no single tool is enough. Cheaper land, a targeted subsidy and housing allowance
 together can bring new rentals to a level ordinary households can afford.
@@ -63,17 +63,19 @@ the 1 900 kr/month gap. See `notebooks/02_model.ipynb`.
 
 ## The Power BI report
 
-Six pages that tell the story, built to be presented full screen. Pages 4 and 5 have live sliders where
+Eight pages (cover, six story pages, closing page), built to be presented full screen as slides. Pages 4 and 5 have live sliders where
 the audience can test the tools themselves.
 
 | Page | Content |
 |---|---|
+| Start | Title and main question |
 | 1. The problem | Completions vs the interest rate 3 years earlier |
 | 2. Why so expensive? | Production cost per m², land + building, 1994–2024 |
 | 3. Can we trust the model? | Model vs actual rent 2022–2025 |
 | 4. What would it take? | Sliders: interest rate (market), subsidy (state), land price (municipality) |
 | 5. Who can afford it? | Rent as % of income per household type |
 | 6. The answer | The three tools, their effect and cost |
+| Thank you | The three tools in one line each, sources and GitHub link |
 
 Screenshots of every page and the custom theme are in [`powerbi/`](powerbi/). The data source of the
 report is `data/processed/rental_model_powerbi.xlsx` (Import mode).
