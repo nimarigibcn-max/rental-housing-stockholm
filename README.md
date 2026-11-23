@@ -25,7 +25,7 @@ Audience: politicians and decision-makers. The result is presented as an interac
 |---|---|---|---|
 | Cheaper land for rentals (inner-suburb land sold at outer-suburb prices) | Municipality | **−5 200 kr/month** | Land allocation, discounted site leasehold |
 | Investment subsidy, 7 000 kr/m² tied to a rent cap | State | **−1 900 kr/month** | ≈ 385 000 kr per flat = 385 million kr per 1 000 flats |
-| Housing allowance for single-income households | State | Closes the remaining gap: **9 200 kr/month** for a single woman (single man 8 000, single woman with children 5 100) | Land and subsidy alone are not enough for one income |
+| Housing allowance for single-income households | State | Closes the remaining gap after cheaper land and the subsidy: **7 300 kr/month** for a single woman (single man 6 100, single woman with children 3 200) | Land and subsidy alone are not enough for one income |
 | Interest rate | Riksbank / market – *not* a political tool | 1.5 % + subsidy → 12 900 kr/month: 28 % of median income, still 54 % for a single woman | Policy has to work even when rates are high |
 
 **Conclusion:** no single tool is enough. Cheaper land, a targeted subsidy and housing allowance
