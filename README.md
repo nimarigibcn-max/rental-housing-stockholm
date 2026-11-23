@@ -17,7 +17,7 @@ Audience: politicians and decision-makers. The result is presented as an interac
 | **4×** | production cost per m² compared with 1994. Land is now 25 % of the cost (13 % in 1994). |
 | **±4 %** | how close the break-even model came to actual rents in new rentals 2022–2024. |
 | **1 900 kr/month** | the gap in 2025 between what a new 55 m² flat costs and the rent it can be let for. That gap is why projects stop. |
-| **64 %** | of a single person's income would go to rent in a new 2-room flat today (limit: 30 %). Even at 0 % interest and maximum subsidy it is 42 %. |
+| **68 %** | of a single woman's income would go to rent in a new 2-room flat today (single man: 59 %, limit: 30 %). Even at 0 % interest and the old subsidy (7 000 kr/m²) it is 46 %. |
 
 **The tools** (55 m² flat, 2.75 % interest, today's level 16 352 kr/month):
 
@@ -25,8 +25,8 @@ Audience: politicians and decision-makers. The result is presented as an interac
 |---|---|---|---|
 | Cheaper land for rentals (inner-suburb land sold at outer-suburb prices) | Municipality | **−5 200 kr/month** | Land allocation, discounted site leasehold |
 | Investment subsidy, 7 000 kr/m² tied to a rent cap | State | **−1 900 kr/month** | ≈ 385 000 kr per flat = 385 million kr per 1 000 flats |
-| Housing allowance for single-income households | State | Closes the remaining gap: **8 600 kr/month** for a single person, 4 400 for a single parent | Land and subsidy alone are not enough for one income |
-| Interest rate | Riksbank / market – *not* a political tool | 1.5 % + subsidy → 12 900 kr/month: 28 % of median income, still 50 % for a single person | Policy has to work even when rates are high |
+| Housing allowance for single-income households | State | Closes the remaining gap: **9 200 kr/month** for a single woman (single man 8 000, single woman with children 5 100) | Land and subsidy alone are not enough for one income |
+| Interest rate | Riksbank / market – *not* a political tool | 1.5 % + subsidy → 12 900 kr/month: 28 % of median income, still 54 % for a single woman | Policy has to work even when rates are high |
 
 **Conclusion:** no single tool is enough. Cheaper land, a targeted subsidy and housing allowance
 together can bring new rentals to a level ordinary households can afford.
