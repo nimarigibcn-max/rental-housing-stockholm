@@ -23,7 +23,7 @@ Audience: politicians and decision-makers. The result is presented as an interac
 
 | Tool | Who decides | Effect on rent | Cost / note |
 |---|---|---|---|
-| Cheaper land for rentals (inner suburb → average land price) | Municipality | **−5 200 kr/month** (inner city: −9 500) | Land allocation, discounted site leasehold |
+| Cheaper land for rentals (inner-suburb land sold at outer-suburb prices) | Municipality | **−5 200 kr/month** (inner city: −9 500) | Land allocation, discounted site leasehold |
 | Investment subsidy, 7 000 kr/m² tied to a rent cap | State | **−1 900 kr/month** | ≈ 385 000 kr per flat = 385 million kr per 1 000 flats |
 | Housing allowance for single-income households | State | Closes the remaining gap: **8 600 kr/month** for a single person, 4 400 for a single parent | Land and subsidy alone are not enough for one income |
 | Interest rate | Riksbank / market – *not* a political tool | 1.5 % + subsidy → 12 900 kr/month: 28 % of median income, still 50 % for a single person | Policy has to work even when rates are high |
@@ -52,7 +52,7 @@ rent       = investment × LTV × (5y mortgage bond rate + bank margin)   # loan
 | Operating cost | 450 kr/m²/year | running costs + maintenance |
 | Interest rate lag | 3 years | a building is financed ~3 years before it is completed |
 | Building cost | 41 400 kr/m² | SCB 2024; land price is added per location scenario |
-| Land price scenarios | 11 000 / 20 000 / 30 000 / 46 000 kr/m² | Average / Suburb+ / Inner suburb / Inner city |
+| Land price scenarios | 11 000 / 20 000 / 30 000 / 46 000 kr/m² | Outer suburb / Suburb / Inner suburb / Inner city (shown in Power BI via the calculated column `Area`; the data files still say Average / Suburb+). The cheapest level is below SCB's actual Stor-Stockholm average (about 14 400 kr/m² in 2024), so the rents shown are on the low side |
 | Flat size | 55 m² (2 rooms) | monthly rent = rent per m² × 55 / 12 |
 | Affordability limit | 30 % of disposable income | SCB median income per household type, Stockholms län |
 
