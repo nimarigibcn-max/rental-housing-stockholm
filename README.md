@@ -13,7 +13,7 @@ Audience: politicians and decision-makers. The result is presented as an interac
 | | |
 |---|---|
 | **6 169** | new rental homes completed in Stockholm County in 2025 – and falling. The county needs 11 000+ new homes a year. |
-| **3 years** | the lag between the interest rate and completions: low rates 2019–21 gave the record years 2022–24. |
+| **3 years** | the lag between the interest rate and completions: low rates 2019–21 gave the record year 2023 (7 797 new rentals). |
 | **4×** | production cost per m² compared with 1994. Land is now 25 % of the cost (13 % in 1994). |
 | **±4 %** | how close the break-even model came to actual rents in new rentals 2022–2024. |
 | **1 900 kr/month** | the gap in 2025 between what a new 55 m² flat costs and the rent it can be let for. That gap is why projects stop. |
