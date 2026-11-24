@@ -52,7 +52,7 @@ rent       = investment × LTV × (5y mortgage bond rate + bank margin)   # loan
 | Operating cost | 450 kr/m²/year | running costs + maintenance |
 | Interest rate lag | 3 years | a building is financed ~3 years before it is completed |
 | Building cost | 41 400 kr/m² | SCB 2024; land price is added per location scenario |
-| Land price scenarios | 11 000 / 20 000 / 30 000 / 46 000 kr/m² | Outer suburb / Suburb / Inner suburb / Inner city (shown in Power BI via the calculated column `Area`; the data files still say Average / Suburb+). The cheapest level is below SCB's actual Stor-Stockholm average (about 14 400 kr/m² in 2024), so the rents shown are on the low side. The four land prices are model assumptions chosen to show the range, not measured values |
+| Land price scenarios | 11 000 / 20 000 / 30 000 / 46 000 kr/m² | Outer suburb / Suburb / Inner suburb / Inner city (shown in Power BI via the calculated column `Area`; the data files still say Average / Suburb+). The cheapest level is below SCB's actual Stor-Stockholm average (about 14 400 kr/m² in 2024), so the rents shown are on the low side. The four land prices are model assumptions chosen to show the range, not measured values. The report shows three of them (Outer suburb, Inner suburb, Inner city); Suburb is hidden to keep the choice simple |
 | Flat size | 55 m² (2 rooms) | monthly rent = rent per m² × 55 / 12 |
 | Affordability limit | 30 % of disposable income | SCB median income per household type, Stockholms län |
 
