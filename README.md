@@ -19,13 +19,13 @@ Audience: politicians and decision-makers. The result is presented as an interac
 | **1 900 kr/month** | the gap in 2025 between what a new 55 m² flat costs and the rent it can be let for. That gap is why projects stop. |
 | **68 %** | of a single woman's income would go to rent in a new 2-room flat today (single man: 59 %, limit: 30 %). Even at 0 % interest and the old subsidy (7 000 kr/m²) it is 46 %. |
 
-**The tools** (55 m² flat, 2.75 % interest, today's level 16 352 kr/month):
+**The answer – one worked example:** a new 2-room flat (55 m²) in an inner suburb at 2.75 % interest costs 21 534 kr/month = 90 % of a single woman's income (23 958 kr/month after tax). Three steps bring her cost down to 30 %:
 
 | Tool | Who decides | Effect on rent | Cost / note |
 |---|---|---|---|
-| Cheaper land for rentals (inner-suburb land sold at outer-suburb prices) | Municipality | **−5 200 kr/month** | Land allocation, discounted site leasehold |
-| Investment subsidy, 7 000 kr/m² tied to a rent cap | State | **−1 900 kr/month** | ≈ 385 000 kr per flat = 385 million kr per 1 000 flats |
-| Housing allowance for single-income households | State | Closes the remaining gap after cheaper land and the subsidy: **7 300 kr/month** for a single woman (single man 6 100, single woman with children 3 200) | Today's allowance: max 4 200 kr/month, for low-income families with children; single people get 0 kr from age 29 (Försäkringskassan 2026) |
+| 1. Sell or lease land for rentals in inner suburbs at outer-suburb price (11 000 instead of 30 000 kr/m²) | Municipality | **−5 200 kr/month** (21 534 → 16 352) | Only matters where land is expensive. ≈ 1 million kr per flat in lost land income |
+| 2. Investment subsidy, 7 000 kr/m² tied to a rent cap | State | **−1 900 kr/month** (16 352 → 14 443), same in every location | 385 000 kr per flat = 385 million kr per 1 000 flats |
+| 3. Housing allowance for single-income households | State | **≈ 7 300 kr/month** covers the rest – she pays ≈ 7 200 kr = 30 % (single man 6 100, single woman with children 3 200) | Today's allowance: max 4 200 kr/month, for low-income families with children; single people get 0 kr from age 29 (Försäkringskassan 2026) |
 | Interest rate | Riksbank / market – *not* a political tool | All figures above assume 2.75 % (2025 level). Even at 1.5 % + subsidy (12 900 kr/month) a single woman pays 54 % of her income | 28 % for the median household |
 
 **Conclusion:** no single tool is enough. Cheaper land, a targeted subsidy and housing allowance
