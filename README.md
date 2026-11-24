@@ -23,7 +23,7 @@ Audience: politicians and decision-makers. The result is presented as an interac
 
 | Tool | Who decides | Effect on rent | Cost / note |
 |---|---|---|---|
-| 1. Sell or lease land for rentals at outer-suburb price, 11 000 kr/m² | Municipality | Keeps the rent at **16 352 kr/month**. At market land price: inner suburb 21 534, inner city 25 897 | Using the same low price in an inner suburb costs ≈ 1 million kr per flat in land income |
+| 1. Sell or lease land for rentals at outer-suburb price, 11 000 kr/m² | Municipality | Keeps the rent at **16 352 kr/month**. At market land price: inner suburb 21 534, inner city 25 897 | Using the same low price in an inner suburb costs ≈ 1 million kr per flat in land income. Going even lower, to ≈ 4 000 kr/m² (a level Stockholm has used for rentals), cuts the allowance needed in step 3 to ≈ 5 300 kr/month |
 | 2. Investment subsidy, 7 000 kr/m² tied to a rent cap | State | **−1 900 kr/month** (16 352 → 14 443), same in every location | 385 000 kr per flat = 385 million kr per 1 000 flats |
 | 3. Housing allowance for single-income households | State | **≈ 7 300 kr/month** covers the rest – she pays ≈ 7 200 kr = 30 % (single man 6 100, single woman with children 3 200) | Today's allowance: max 4 200 kr/month, for low-income families with children; single people get 0 kr from age 29 (Försäkringskassan 2026) |
 | Interest rate | Riksbank / market – *not* a political tool | All figures above assume 2.75 % (2025 level). Even at 1.5 % + subsidy (12 900 kr/month) a single woman pays 54 % of her income | 28 % for the median household |
