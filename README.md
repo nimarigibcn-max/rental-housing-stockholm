@@ -67,7 +67,9 @@ the 1 900 kr/month gap. See `notebooks/02_model.ipynb`.
 
 Seven pages (cover, five story pages, closing page), built to be presented full screen as slides. Pages 3 and 4 have live sliders where
 the audience can test the tools themselves. A PDF of the whole report is in
-[`powerbi/The_Cost_of_Building_Rentals_in_Stockholm.pdf`](powerbi/The_Cost_of_Building_Rentals_in_Stockholm.pdf).
+[`powerbi/The_Cost_of_Building_Rentals_in_Stockholm.pdf`](powerbi/The_Cost_of_Building_Rentals_in_Stockholm.pdf),
+and the Power BI file itself (report + data, opens in Power BI Desktop) in
+[`powerbi/The_Cost_of_Building_Rentals_in_Stockholm.pbix`](powerbi/The_Cost_of_Building_Rentals_in_Stockholm.pbix).
 
 | Page | Content |
 |---|---|
