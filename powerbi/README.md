@@ -3,6 +3,8 @@
 **The Cost of Building Rentals in Stockholm** – seven report pages (cover, five story pages, closing page)
 presented full screen as the final presentation (no PowerPoint). PDF export:
 [`The_Cost_of_Building_Rentals_in_Stockholm.pdf`](The_Cost_of_Building_Rentals_in_Stockholm.pdf).
+Power BI file (report + data, opens in Power BI Desktop):
+[`The_Cost_of_Building_Rentals_in_Stockholm.pbix`](The_Cost_of_Building_Rentals_in_Stockholm.pbix).
 
 - **Data source:** `../data/processed/rental_model_powerbi.xlsx` (Import mode), created by
   `notebooks/02_model.ipynb`. Tables: `validation`, `subsidy_history`, `scenarios`,
