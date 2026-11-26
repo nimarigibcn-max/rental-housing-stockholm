@@ -6,13 +6,13 @@ and which tools can politicians use?** (Stockholm County)
 Individual project – Hyper Island, Data Analyst (DA27), autumn 2026.
 Audience: politicians and decision-makers. The result is presented as an interactive Power BI report.
 
-![The answer](powerbi/screenshots/06_the_answer.png)
+![The answer](powerbi/screenshots/05_the_answer.png)
 
 ## Key findings
 
 | | |
 |---|---|
-| **6 169** | new rental homes completed in Stockholm County in 2025 – and falling. The county needs 11 000+ new homes a year. |
+| **6 169** | new rental homes completed in Stockholm County in 2025, down from 7 797 in 2023. The county needs 11 000–12 000 new homes of all kinds a year. |
 | **3 years** | the lag between the interest rate and completions: low rates 2019–21 gave the record year 2023 (7 797 new rentals). |
 | **4×** | production cost per m² compared with 1994. Land is now 25 % of the cost (13 % in 1994). |
 | **±4 %** | how close the break-even model came to actual rents in new rentals 2022–2024. |
@@ -61,20 +61,22 @@ about 4 % of actual rents in unsubsidised new rentals (*presumtionshyra*) in Sto
 (mean absolute error 73 kr/m²/year). In 2025 the model rent is 410 kr/m²/year above the actual rent –
 the 1 900 kr/month gap. See `notebooks/02_model.ipynb`.
 
+![Model vs actual rent](powerbi/screenshots/model_validation.png)
+
 ## The Power BI report
 
-Eight pages (cover, six story pages, closing page), built to be presented full screen as slides. Pages 4 and 5 have live sliders where
-the audience can test the tools themselves.
+Seven pages (cover, five story pages, closing page), built to be presented full screen as slides. Pages 3 and 4 have live sliders where
+the audience can test the tools themselves. A PDF of the whole report is in
+[`powerbi/The_Cost_of_Building_Rentals_in_Stockholm.pdf`](powerbi/The_Cost_of_Building_Rentals_in_Stockholm.pdf).
 
 | Page | Content |
 |---|---|
 | Start | Title and main question |
 | 1. The problem | Completions vs the interest rate 3 years earlier |
 | 2. Why so expensive? | Production cost per m², land + building, 1994–2024 |
-| 3. Can we trust the model? | Model vs actual rent 2022–2025 |
-| 4. What would it take? | Sliders: interest rate (market), subsidy (state), land price (municipality) |
-| 5. Who can afford it? | Rent as % of income per household type |
-| 6. The answer | The three tools, their effect and cost |
+| 3. What would it take? | Sliders: interest rate (market), subsidy (state), land price (municipality) |
+| 4. Who can afford it? | Rent as % of income per household type |
+| 5. The answer | The three tools, their effect and cost |
 | Thank you | The three tools in one line each, sources and GitHub link |
 
 Screenshots of every page and the custom theme are in [`powerbi/`](powerbi/). The data source of the
@@ -82,9 +84,10 @@ report is `data/processed/rental_model_powerbi.xlsx` (Import mode).
 
 | | |
 |---|---|
-| ![](powerbi/screenshots/01_the_problem.png) | ![](powerbi/screenshots/02_why_so_expensive.png) |
-| ![](powerbi/screenshots/03_can_we_trust_the_model.png) | ![](powerbi/screenshots/04_what_would_it_take.png) |
-| ![](powerbi/screenshots/05_who_can_afford_it.png) | ![](powerbi/screenshots/06_the_answer.png) |
+| ![](powerbi/screenshots/00_start.png) | ![](powerbi/screenshots/01_the_problem.png) |
+| ![](powerbi/screenshots/02_why_so_expensive.png) | ![](powerbi/screenshots/03_what_would_it_take.png) |
+| ![](powerbi/screenshots/04_who_can_afford_it.png) | ![](powerbi/screenshots/05_the_answer.png) |
+| ![](powerbi/screenshots/06_thank_you.png) | |
 
 ## Project structure
 
